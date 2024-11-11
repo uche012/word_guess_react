@@ -4,6 +4,7 @@ WordGuess is an interactive word-guessing game built using ReactJS. Test your vo
 
 <div align="center">
   <img align="center" alt="word-guess" src="./public/word_guess.png" width="500" height="500" />
+  <img align="center" alt="word-guess" src="./public/word_guess_wrong.png" width="500" height="500" />
 </div>
 
 ### Technologies Used
