@@ -3,7 +3,7 @@
 WordGuess is an interactive word-guessing game built using ReactJS. Test your vocabulary and deduction skills by trying to guess the hidden word within a limited number of attempts.
 
 <div align="center">
-  <img align="center" alt="word-guess" src="https://github.com/uche012/word_guess_react/public/word_guess.png" width="500" height="500" />
+  <img align="center" alt="word-guess" src="./public/word_guess.png" width="500" height="500" />
 </div>
 
 ### Technologies Used
